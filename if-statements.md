@@ -1,6 +1,6 @@
 # if-statements
 ## Also called conditionals
-### "if" statements allow us to create a way of choosing one of two paths.  Simply put they allow us to choose an action to take if a condition is met.
+### "if" statements allow us to create conditions and based on whether they are met, we can specify an action to take.  Simply put they allow us to choose an action to take if a condition is met.
 ## Example
     if 2 > 1:
         print("2 is greater than 1")
